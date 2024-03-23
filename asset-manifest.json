@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/issionar_com/static/css/main.83b8c155.css",
-    "main.js": "/issionar_com/static/js/main.8fc47356.js",
+    "main.css": "/issionar_com/static/css/main.d9be1eae.css",
+    "main.js": "/issionar_com/static/js/main.0a401e06.js",
     "index.html": "/issionar_com/index.html",
-    "main.83b8c155.css.map": "/issionar_com/static/css/main.83b8c155.css.map",
-    "main.8fc47356.js.map": "/issionar_com/static/js/main.8fc47356.js.map"
+    "main.d9be1eae.css.map": "/issionar_com/static/css/main.d9be1eae.css.map",
+    "main.0a401e06.js.map": "/issionar_com/static/js/main.0a401e06.js.map"
   },
   "entrypoints": [
-    "static/css/main.83b8c155.css",
-    "static/js/main.8fc47356.js"
+    "static/css/main.d9be1eae.css",
+    "static/js/main.0a401e06.js"
   ]
 }
